@@ -1,0 +1,13 @@
+D:\Учёба\C#\Практика\CurrensyExchangeProgram\bin\Release\CurrensyExchangeProgram.exe.config
+D:\Учёба\C#\Практика\CurrensyExchangeProgram\bin\Release\CurrensyExchangeProgram.exe
+D:\Учёба\C#\Практика\CurrensyExchangeProgram\bin\Release\CurrensyExchangeProgram.pdb
+D:\Учёба\C#\Практика\CurrensyExchangeProgram\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+D:\Учёба\C#\Практика\CurrensyExchangeProgram\bin\Release\System.Text.Encoding.CodePages.dll
+D:\Учёба\C#\Практика\CurrensyExchangeProgram\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+D:\Учёба\C#\Практика\CurrensyExchangeProgram\obj\Release\CurrensyExchangeProgram.csprojAssemblyReference.cache
+D:\Учёба\C#\Практика\CurrensyExchangeProgram\obj\Release\CurrensyExchangeProgram.MainForm.resources
+D:\Учёба\C#\Практика\CurrensyExchangeProgram\obj\Release\CurrensyExchangeProgram.Properties.Resources.resources
+D:\Учёба\C#\Практика\CurrensyExchangeProgram\obj\Release\CurrensyExchangeProgram.csproj.GenerateResource.cache
+D:\Учёба\C#\Практика\CurrensyExchangeProgram\obj\Release\CurrensyExchangeProgram.csproj.CopyComplete
+D:\Учёба\C#\Практика\CurrensyExchangeProgram\obj\Release\CurrensyExchangeProgram.exe
+D:\Учёба\C#\Практика\CurrensyExchangeProgram\obj\Release\CurrensyExchangeProgram.pdb
